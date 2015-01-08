@@ -49,7 +49,7 @@ public class RtmObjects {
 	 */
 	public static <V extends RtmObject> V searchById(List<V> list, String id) {
 		for(V v : list) {
-			if(v.getId() == id) return v; 
+			if(v.getId().equals(id)) return v; 
 		}
 		return null;
 	}
