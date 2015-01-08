@@ -1,6 +1,6 @@
 Library for Android and Java (previously developed in rtmapi-android.googlecode.com).
 
-Last version is 1.3.12; previous version have been deprecated and they are not working.
+Last version is 1.3.13; see [Change Log](https://github.com/bova82/rtmapi-android/blob/master/changelog.md) for previous versions.
 
 Please read the [Wiki](https://github.com/bova82/rtmapi-android/wiki) for usage instructions.
 
