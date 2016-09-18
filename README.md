@@ -1,14 +1,7 @@
-Library for Android and Java (previously developed in rtmapi-android.googlecode.com).
-
-Last version is 1.3.13; see [Change Log](https://github.com/bova82/rtmapi-android/blob/master/changelog.md) for previous versions.
-
-[Javadoc](http://bova82.github.io/rtmapi-javadoc/) documentation is also available.
+Remember the Milk API Wrapper for Android and Java.
 
 # Overview
 This Remember the Milk API Kit has been developed for use in Android projects, using Android core libraries. It can be used also in Java code, importing the missing libraries.
-
-Latest issue: **1.3.12** Version
-Previous version are not working and have been removed.
 
 # Support
 If you have a question, a suggestion, an issue, if you are interested in contributing to the project or simply you want to tell that you are using this tool, please join the discussions in  [Google Groups](https://groups.google.com/forum/#!forum/rtmapi-for-androidjava)
